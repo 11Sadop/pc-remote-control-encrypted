@@ -1,18 +1,25 @@
-# PC Remote Control Encrypted Package
+# PC Remote Control
 
-This private repository stores the PC remote-control tool as an encrypted package only.
+نسخة عامة جاهزة للتشغيل من أداة التحكم بالكمبيوتر.
 
-## Contents
+## التحميل
 
-- `pc-control-tool.tar.gz.aes256gcm` is encrypted with AES-256-GCM.
-- `pc-control-tool.zip.sha256` is the checksum of the encrypted package.
-- `decrypt-package.ps1` decrypts the package on a trusted Windows machine.
+حمّل الملف:
 
-## Decrypt
-
-```powershell
-.\decrypt-package.ps1 -KeyFile "C:\path\to\pc-control-tool-key.txt"
-tar -xzf .\pc-control-tool.tar.gz -C .\pc-control-tool
+```text
+pc-remote-control.exe
 ```
 
-Keep the key file private. Anyone without the key cannot read the tool files from this repository.
+ثم شغله على الكمبيوتر. سيبدأ خادم التحكم المحلي ويظهر رابط Cloudflare للاستخدام من الجوال.
+
+## الأمان
+
+- لا يوجد كود مصدر منشور في هذا المستودع.
+- البرنامج مغلف كملف تشغيل Windows.
+- ملفات الواجهة داخل البرنامج مموهة لتصعيب قراءتها.
+- أول تشغيل يطلب PIN من 4 إلى 6 أرقام.
+- يتم حفظ PIN مشفراً محلياً باستخدام bcrypt.
+
+## ملاحظة
+
+أي برنامج يعمل على جهاز المستخدم يمكن تحليله بصعوبة متفاوتة. هذه النسخة لا تنشر السورس، وتقلل وضوح الكود، لكنها لا تمثل حماية مستحيلة ضد الهندسة العكسية.
