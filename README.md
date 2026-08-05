@@ -4,7 +4,7 @@
 
 ## التحميل
 
-[تحميل PCRemoteControl_FHD60_v8.zip](https://github.com/11Sadop/pc-remote-control-encrypted/releases/latest/download/PCRemoteControl_FHD60_v8.zip)
+[تحميل PCRemoteControl_FHD60_v9.zip](https://github.com/11Sadop/pc-remote-control-encrypted/releases/latest/download/PCRemoteControl_FHD60_v9.zip)
 
 ## التشغيل
 
@@ -23,4 +23,4 @@
 
 ## SHA256
 
-`B6CBF04E0EE847F28D0CA0B80D77AEC102FDB5674142905F36AB956A06380973`
+`322D12BCA106196A14570614E1370FB152E24080DDEDC4E26687D61381722139`
