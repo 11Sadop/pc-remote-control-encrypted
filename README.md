@@ -1,10 +1,10 @@
 # PC Remote Control
 
-نسخة عامة جاهزة للتشغيل من أداة التحكم بالكمبيوتر.
+نسخة عامة جاهزة لتشغيل أداة التحكم بالكمبيوتر من الجوال.
 
 ## التحميل
 
-[تحميل PCRemoteControl_FHD60_v9.zip](https://github.com/11Sadop/pc-remote-control-encrypted/releases/latest/download/PCRemoteControl_FHD60_v9.zip)
+[تحميل PCRemoteControl_FHD60_v10.zip](https://github.com/11Sadop/pc-remote-control-encrypted/releases/latest/download/PCRemoteControl_FHD60_v10.zip)
 
 ## التشغيل
 
@@ -17,10 +17,11 @@
 
 ## ملاحظات
 
-- بعد قبول الجوال يتم حفظ الجلسة ولا تحتاج QR عند كل تحديث.
+- بعد قبول الجوال تُحفظ الجلسة ولا تحتاج QR عند كل تحديث.
 - رفع الملفات من الجوال يحفظ داخل مجلد Downloads في الكمبيوتر.
+- النسخة v10 تمنع تراكم إطارات البث وتفتح قناة التحكم المباشر فورًا.
 - لا يوجد كود مصدر منشور في هذا المستودع، فقط حزمة تشغيل جاهزة.
 
 ## SHA256
 
-`322D12BCA106196A14570614E1370FB152E24080DDEDC4E26687D61381722139`
+`773785E7C53EAEB5D431050B20EA03261F3CA1C18D24FC36264B029D40003058`
