@@ -4,7 +4,7 @@
 
 ## التحميل
 
-[تحميل النسخة v16](https://github.com/11Sadop/pc-remote-control-encrypted/releases/latest/download/PCRemoteControl_FHD60_v16.zip)
+[تحميل النسخة v17](https://github.com/11Sadop/pc-remote-control-encrypted/releases/latest/download/PCRemoteControl_FHD60_v17.zip)
 
 ## التشغيل
 
