@@ -5,7 +5,7 @@
 ## التحميل
 حمّل الحزمة الكاملة من صفحة الإصدارات:
 
-[PCRemoteControl_FHD60_v25.zip](https://github.com/11Sadop/pc-remote-control-encrypted/releases/download/v2026.08.10-arabic-latency-v25/PCRemoteControl_FHD60_v25.zip)
+[PCRemoteControl_FHD60_v26.zip](https://github.com/11Sadop/pc-remote-control-encrypted/releases/download/v2026.08.10-stable-obfuscated-v26/PCRemoteControl_FHD60_v26.zip)
 
 بعد التحميل:
 1. اضغط بزر الماوس الأيمن على ملف ZIP واختر **استخراج الكل / Extract All**.
@@ -17,14 +17,17 @@
 ## التحديث التلقائي
 عند تشغيل START_PC_REMOTE.bat تتحقق الأداة من آخر إصدار في GitHub وتحدث نفسها تلقائياً إذا توفر إصدار أحدث.
 
+## التعمية
+الحزمة العامة لا تحتوي ملفات C# المصدر، وملفات JavaScript المشغلة داخل الحزمة معمّاة لتصعيب القراءة والنسخ. التعمية ليست حماية مطلقة ضد الهندسة العكسية.
+
 ## التحقق
 SHA256:
 
 `	ext
-AD87315CB182E1F1A80571F0B7E11695F86F5ACEAB97124935A5398224007067
+88F4BEA6C3194A75E500F4920E08D0B781DA1BF803D2DD6CA02E598998E73655
 `
 
 ## الأمان
-- لا يوجد كود مصدر منشور هنا، فقط حزمة تشغيل جاهزة.
 - الربط يتم عبر باركود مؤقت وموافقة يدوية من الكمبيوتر.
 - الجلسة محفوظة بعد الموافقة، ويمكن إلغاء ربط أي جهاز من الأداة.
+- الموقع وحده لا يكفي للتحكم؛ لا بد من موافقة أداة الكمبيوتر والجلسة المخزنة.
