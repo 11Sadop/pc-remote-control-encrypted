@@ -5,24 +5,26 @@
 ## التحميل
 حمّل الحزمة الكاملة من صفحة الإصدارات:
 
-[PCRemoteControl_FHD60_v24.zip](https://github.com/11Sadop/pc-remote-control-encrypted/releases/download/v2026.08.10-arabic-latency-v24/PCRemoteControl_FHD60_v24.zip)
+[PCRemoteControl_FHD60_v25.zip](https://github.com/11Sadop/pc-remote-control-encrypted/releases/download/v2026.08.10-arabic-latency-v25/PCRemoteControl_FHD60_v25.zip)
 
 بعد التحميل:
 1. اضغط بزر الماوس الأيمن على ملف ZIP واختر **استخراج الكل / Extract All**.
 2. افتح المجلد المستخرج.
 3. شغّل START_PC_REMOTE.bat واترك نافذة الخادم مفتوحة.
 4. من الأداة اضغط **إضافة جوال جديد**، امسح الباركود من موقع التحكم، ثم اقبل الطلب من الكمبيوتر.
+5. بعد القبول يتم حفظ الجلسة، ولا تحتاج باركود جديد عند تحديث الصفحة.
+
+## التحديث التلقائي
+عند تشغيل START_PC_REMOTE.bat تتحقق الأداة من آخر إصدار في GitHub وتحدث نفسها تلقائياً إذا توفر إصدار أحدث.
 
 ## التحقق
 SHA256:
 
 `	ext
-8694F4254822EA31B25FBC5DF3A8D6A8B0D89AC3373B86AEF3AD2334BDAB78BD
+AD87315CB182E1F1A80571F0B7E11695F86F5ACEAB97124935A5398224007067
 `
 
 ## الأمان
 - لا يوجد كود مصدر منشور هنا، فقط حزمة تشغيل جاهزة.
 - الربط يتم عبر باركود مؤقت وموافقة يدوية من الكمبيوتر.
 - الجلسة محفوظة بعد الموافقة، ويمكن إلغاء ربط أي جهاز من الأداة.
-
-
