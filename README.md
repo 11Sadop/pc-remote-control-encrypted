@@ -5,7 +5,7 @@
 ## التحميل
 حمّل الحزمة الكاملة من صفحة الإصدارات:
 
-[PCRemoteControl_FHD60_v26.zip](https://github.com/11Sadop/pc-remote-control-encrypted/releases/download/v2026.08.10-stable-obfuscated-v26/PCRemoteControl_FHD60_v26.zip)
+[PCRemoteControl_FHD60_v27.zip](https://github.com/11Sadop/pc-remote-control-encrypted/releases/download/v2026.08.10-http2-screenfix-v27/PCRemoteControl_FHD60_v27.zip)
 
 بعد التحميل:
 1. اضغط بزر الماوس الأيمن على ملف ZIP واختر **استخراج الكل / Extract All**.
@@ -24,7 +24,7 @@
 SHA256:
 
 `	ext
-88F4BEA6C3194A75E500F4920E08D0B781DA1BF803D2DD6CA02E598998E73655
+B1FF72D53424AF21FD1AA18F35B744E48A9A58795F6E952C1517D39268B57E05
 `
 
 ## الأمان
