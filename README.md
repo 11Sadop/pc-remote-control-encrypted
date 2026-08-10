@@ -5,7 +5,7 @@
 ## التحميل
 حمّل الحزمة الكاملة من صفحة الإصدارات:
 
-[PCRemoteControl_FHD60_v27.zip](https://github.com/11Sadop/pc-remote-control-encrypted/releases/download/v2026.08.10-http2-screenfix-v27/PCRemoteControl_FHD60_v27.zip)
+[PCRemoteControl_FHD60_v28.zip](https://github.com/11Sadop/pc-remote-control-encrypted/releases/download/v2026.08.10-audio-gate-rgb-v28/PCRemoteControl_FHD60_v28.zip)
 
 بعد التحميل:
 1. اضغط بزر الماوس الأيمن على ملف ZIP واختر **استخراج الكل / Extract All**.
@@ -13,6 +13,9 @@
 3. شغّل START_PC_REMOTE.bat واترك نافذة الخادم مفتوحة.
 4. من الأداة اضغط **إضافة جوال جديد**، امسح الباركود من موقع التحكم، ثم اقبل الطلب من الكمبيوتر.
 5. بعد القبول يتم حفظ الجلسة، ولا تحتاج باركود جديد عند تحديث الصفحة.
+
+## RGB / تغيير ألوان القطع
+الميزة تعمل إذا كان OpenRGB مثبتاً على الكمبيوتر. ثبّته وشغّله كمسؤول مرة واحدة، ثم من الموقع اضغط فحص داخل قسم RGB.
 
 ## التحديث التلقائي
 عند تشغيل START_PC_REMOTE.bat تتحقق الأداة من آخر إصدار في GitHub وتحدث نفسها تلقائياً إذا توفر إصدار أحدث.
@@ -24,7 +27,7 @@
 SHA256:
 
 `	ext
-B1FF72D53424AF21FD1AA18F35B744E48A9A58795F6E952C1517D39268B57E05
+D09D258B3C3EDB303FFDCCE6C60A325A8DB669FF94B12CBE3A76A6ED4E5549AD
 `
 
 ## الأمان
