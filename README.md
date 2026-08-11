@@ -6,15 +6,16 @@
 
 حمّل أحدث نسخة من صفحة Releases:
 
-- PCRemoteControl_FHD60_v33.zip
+- PCRemoteControl_FHD60_v35.zip
 - SHA256: $hash
 
 ## التشغيل
 
 1. فك ضغط ملف ZIP كاملًا.
 2. شغّل START_PC_REMOTE.bat واترك نافذة الخادم مفتوحة.
-3. افتح موقع التحكم من الجوال: https://pc-remote-control-sa.web.app
-4. استخدم QR فقط لتسجيل جهاز جديد أو إعادة الربط.
+3. إذا علق التحديث شغّل START_PC_REMOTE_NO_UPDATE.bat.
+4. افتح موقع التحكم من الجوال: https://pc-remote-control-sa.web.app
+5. استخدم QR فقط لتسجيل جهاز جديد أو إعادة الربط.
 
 ## ملاحظات الأمان
 
