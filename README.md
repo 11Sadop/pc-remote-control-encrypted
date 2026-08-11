@@ -6,7 +6,7 @@
 
 حمّل أحدث نسخة من صفحة Releases:
 
-- PCRemoteControl_FHD60_v32.zip
+- PCRemoteControl_FHD60_v33.zip
 - SHA256: $hash
 
 ## التشغيل
